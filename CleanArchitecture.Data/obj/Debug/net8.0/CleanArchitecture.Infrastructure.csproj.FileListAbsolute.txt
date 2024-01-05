@@ -1,0 +1,17 @@
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll

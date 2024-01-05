@@ -1,0 +1,17 @@
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.deps.json
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.runtimeconfig.json
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\refint\CleanArchitecture.Data.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.genruntimeconfig.cache
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Data.dll

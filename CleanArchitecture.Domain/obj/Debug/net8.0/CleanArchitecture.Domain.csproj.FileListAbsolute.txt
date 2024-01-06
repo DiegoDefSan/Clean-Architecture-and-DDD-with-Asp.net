@@ -9,3 +9,4 @@ D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Domain\obj\Debug\net8.0\Clean
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json

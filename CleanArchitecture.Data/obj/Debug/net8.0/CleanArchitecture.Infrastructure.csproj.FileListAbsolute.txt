@@ -15,3 +15,6 @@ D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\refint\
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
 D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Application.dll
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\Udemy_net\CleanArchitecture_2\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json

@@ -14,7 +14,7 @@ namespace CleanArchitecture.API.Controllers
     public class StreamerController : ControllerBase
     {
 
-        private readonly IMediator _mediator;
+        private IMediator _mediator;
 
         public StreamerController(IMediator mediator)
         {

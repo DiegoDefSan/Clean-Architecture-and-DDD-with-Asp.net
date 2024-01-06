@@ -196,6 +196,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Udemy_net\\CleanArchitecture_2\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "D:\\Udemy_net\\CleanArchitecture_2\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              },
               "D:\\Udemy_net\\CleanArchitecture_2\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
                 "projectPath": "D:\\Udemy_net\\CleanArchitecture_2\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
@@ -221,6 +224,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
             }
           },
           "imports": [

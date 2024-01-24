@@ -7,14 +7,14 @@ using Microsoft.Extensions.Logging;
 
 namespace CleanArchitecture.Application.Features.Streamers.Commands.UpdateStreamer
 {
-    public class UpdateStreamerCommandHandler : IRequestHandler<UpdateStreamerCommand>
+    public class DeleteStreamerCommandHandler : IRequestHandler<UpdateStreamerCommand>
     {
         // private readonly IStreamerRepository _streamerRepository;
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
-        private readonly ILogger<UpdateStreamerCommandHandler> _logger;
+        private readonly ILogger<DeleteStreamerCommandHandler> _logger;
 
-        public UpdateStreamerCommandHandler(IUnitOfWork unitOfWork, IMapper mapper, ILogger<UpdateStreamerCommandHandler> logger)
+        public DeleteStreamerCommandHandler(IUnitOfWork unitOfWork, IMapper mapper, Constracts.Infrastructure.IEmalService @object, ILogger<DeleteStreamerCommandHandler> logger)
         {
             //_streamerRepository = streamerRepository;
             _unitOfWork = unitOfWork;
